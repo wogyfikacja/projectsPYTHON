@@ -1,0 +1,1 @@
+Example projects I created during 6th semester on PJATK - Computer Science course
